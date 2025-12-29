@@ -4,7 +4,7 @@
 </div>
 <p>
   <b>
-  Hi, I am Daniel Kebaili. I hold a Diploma in Systems Analysis and Development from UNISEPE, and I am progressing toward a Master’s degree in Machine Learning. My work today is centered on machine learning engineering, data science, and building scalable software solutions.
+  Hi, I am Daniel Kebaili. I hold a Diploma in Systems Analysis and Development from UNISEPE, and I am progressing towards a Master’s degree in Machine Learning. My work today is centered on machine learning engineering, data science, and building scalable software solutions.
 
   I have hands-on experience with PyTorch and TensorFlow for developing and experimenting with neural networks, along with practical knowledge of data workflows using Python, NumPy, pandas, and scikit-learn. I also work with Airflow for orchestration, Docker for containerized deployments, and Backend frameworks for serving models and building microservices.
 
